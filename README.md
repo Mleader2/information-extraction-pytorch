@@ -1,6 +1,6 @@
 # kg-baseline-pytorch
-2019百度的关系抽取比赛，使用Pytorch实现，F1在dev集可达到0.75，联合关系抽取（Joint Relation Extraction）.
-
+2019百度的关系抽取比赛，使用Pytorch实现LSTM模型在dev集可达到F1=74.7%，联合关系抽取（Joint Relation Extraction）.
+如果用BERT,RoBERT或Ernie,分数会更高。
 
 ## 步骤
 1.语料预处理
